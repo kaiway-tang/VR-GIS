@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/209 Scenes/abandoned....unity
+    guid: 9c5a0a6484616f74a8fa0c506a849f16
+  - enabled: 0
+    path: Assets/Not_mine/Oculus/SampleFramework/Usage/SpatialAnchor.unity
+    guid: 1db179c458352bf46beb307fd047d589
+  - enabled: 0
+    path: Assets/Scenes/DirectionalSlash.unity
+    guid: 5e652111459e453459457f7037b1af9c
+  - enabled: 1
+    path: Assets/209 Scenes/209 New Scene 1.unity
+    guid: 31bd8a50aa811d94abd04d6104bf448c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 46e73f6efbc58d144be84f503c6625d0, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fb782d765bca53d4693c4c7ec109100b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 146a6a5c3ce7a6a469de8e7adb1cbb1c, type: 2}
